@@ -39,7 +39,7 @@ main_findings:
   - "Failure rates of lumbar punctures are much higher than previously published data."
   - "Natural language processing tools captured attempted LPs not captured by structured data." 
 logoright_name: '![](bch_logo.svg){.main-img-right}'
-logoleft_name: '![](qr-nlp-meds.png){.main-img-left}'
+logoleft_name: '![](qr-lp-success.png){.main-img-left}'
 poster_height: "31.5in"
 poster_width: "56in"
 font_family: "Roboto"
