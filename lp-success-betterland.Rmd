@@ -54,11 +54,6 @@ output:
     highlight: haddock
     number_sections: false
 ---
-<style>
-.section h4 {
-    break-before: column;
-}
-</style>
 ```{r, include=FALSE}
 knitr::opts_chunk$set(results = 'asis',
                       echo = FALSE,
@@ -76,7 +71,7 @@ The frequency of lumbar punctures (LPs) procedures has declined over the past tw
 
 # Objectives
 
-1. Our goal was to identify the proportion of attempted LPs that were ultimately unsuccessful.
+Our goal was to identify the proportion of attempted LPs that were ultimately unsuccessful.
 
 
 # Methods
@@ -107,4 +102,6 @@ knitr::include_graphics("./lp-flowsheet.png")
 
 ```
 
+### Funding Acknowledgements
 
+Mara Alexeev---Biomedical Informatics and Data Science Research Training Program, T15LM007092-30, PI Dr. Nils Gehlenborg, PhD
